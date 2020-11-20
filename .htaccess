@@ -1,1 +1,6 @@
-
+AuthName "Sicherheitsabfrage"
+AuthType Basic
+AuthUserFile path-to-your-website-root
+# <FilesMatch "wp-login.php">
+require valid-user
+# </FilesMatch>
