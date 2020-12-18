@@ -11,6 +11,8 @@
 8. Paste the server path to .htpasswd into your new .htaccess
 9. Upload changed .htaccess
 
+=> To access your protected website, enter the username "test" and the password "t3stpwd".
+
 ---
 Additional info:
 If you prefer to have ONLY wp-login.php under password protection, remove the "#" before the ``<FilesMatch>`` commands in the .htaccess. DO NOT keep a password protection if users can register on your site and they can do stuff that requires AJAX (e.g. online shops with WooCommerce).
