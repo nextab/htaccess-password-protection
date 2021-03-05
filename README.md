@@ -16,7 +16,7 @@
 ---
 Additional info:
 If you prefer to have ONLY wp-login.php under password protection, remove the "#" before the ``<FilesMatch>`` commands in the .htaccess. 
-WARNING: DO NOT keep a password protection if users can register on your site and / or they can do stuff that requires AJAX (e.g. online shops with WooCommerce or most contact form plugins).
+WARNING: DO NOT keep a password protection if users can register on your site and / or they can do stuff that requires AJAX (e.g. **online shops with WooCommerce or most contact form plugins**).
 
 ---
 
