@@ -5,7 +5,7 @@
 2. Open yourdomain.com/path.php
 3. Copy the server path from the open browser window to .htaccess
 4. DELETE path.php from your webspace!!!
-5. Either use the .htpasswd we provide in this git or create your own - use the command `echo "test:$(openssl passwd -apr1)" >> .htpasswd` in your terminal app (on a Mac) / command prompt (Win) to generate a .htpasswd file with your own password.
+5. Either use the .htpasswd we provide in this git or create your own - on a Mac, you can use the command `echo "test:$(openssl passwd -apr1)" >> .htpasswd` in your terminal app to generate a .htpasswd file with your own password (this will be saved to your user folder and you can NOT see this file in your Finder app unless you changed the settings).
 6. Upload .htpasswd to the root of your website
 7. Download the .htaccess of your website (this is important so your WordPress permalink settings do not get lost; if you are not using WordPress, skip this step).
 8. Add the contents of the .htaccess in this repo to your .htaccess (I'd recommend at the very beginning)
