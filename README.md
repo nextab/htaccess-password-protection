@@ -12,7 +12,7 @@
 9. Paste the server path to .htpasswd in your new .htaccess
 10. Upload changed .htaccess
 
-=> To access your protected website, enter the username "test" and the password "t3stpwd".
+=> To access your protected website (if you didn't change the credentials), enter the username "test" and the password "t3stpwd".
 
 ---
 Additional info:
