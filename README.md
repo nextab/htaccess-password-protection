@@ -1,5 +1,5 @@
 # htaccess-passwortschutz
-## Komplettes Toolkit, um eine Entwicklungsumgebung (oder beliebige Webseite) unter einen Passwortschutz per .htaccess zu setzen
+## Your complete toolkit to password protect a development environment (or any website for that matter) via .htaccess
 
 1. Upload path.php to your webspace
 2. Open yourdomain.com/path.php
