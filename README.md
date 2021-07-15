@@ -1,4 +1,4 @@
-# htaccess-passwortschutz
+# htaccess password protection
 ## Your complete toolkit to password protect a development environment (or any website for that matter) via .htaccess
 
 1. Upload path.php to your webspace
